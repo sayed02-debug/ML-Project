@@ -123,8 +123,8 @@ Huge thanks to open-source libraries and the community that makes projects like 
 
 Md. Abu Sayed Islam  
 
-LinkedIn: linkedin.com/in/sayed02  
-Email: mdabusayedislam2@gmail.com  
+LinkedIn: [linkedin.com/in/sayedo2](https://www.linkedin.com/in/sayedo2)  
+Email: [mdabusayedislam2@gmail.com](mailto:mdabusayedislam2@gmail.com) 
 
 Questions, ideas, collaborations? Drop me a message!  
 Feel free to open issues or send PRs—happy to improve this together.  
